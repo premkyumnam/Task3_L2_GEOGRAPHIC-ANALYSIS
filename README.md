@@ -35,7 +35,10 @@ To achieve this Task3 of level 2, I used the following tools and technologies:<b
 3. Pandas – used for data cleaning, manipulation, and analysis
 4. Matplotlib – used for creating visualizations like charts and plots
 5. Seaborn – used for advanced statistical data visualization
-6. Jupyter Notebook (Primary IDE) - used for writing and executing code.
+5. *Scikit-learn*:
+    - *DBSCAN*: Density-based clustering
+    - *StandardScaler*: Feature scaling (standardization).
+7. Jupyter Notebook (Primary IDE) - used for writing and executing code.
 
 These tools enabled me to effectively extract insights and meaning from the data.<br><br>
 🎉 I'm grateful for the opportunity to work on this project and sharpen my data analysis skills. <br>Thank you to Cognifyz Technologies for this amazing learning experience! I'm excited to continue growing and taking on new challenges.<br><br>
