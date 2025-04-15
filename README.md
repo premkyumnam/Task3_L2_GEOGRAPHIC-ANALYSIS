@@ -13,7 +13,8 @@ In this video, I analyzed a given restaurant dataset to explore insights on:
 
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
-<img src="https://github.com/premkyumnam/Task3_L2_GEOGRAPHIC-ANALYSIS/download.png"/>
+<h1>DBSCAN Clustering of Restaurant Locations</h1>
+    <img src="plots/dbscan_clusters.png" alt="DBSCAN Clusters" width="800">
 
 
 <h2>🛠️Tools & Technologies Used:</h2><br>
