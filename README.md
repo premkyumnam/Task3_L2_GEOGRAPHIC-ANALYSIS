@@ -7,7 +7,7 @@
 
 <h2>🔹Project Overview:</h2>
 
-In this video, I analyzed a given restaurant dataset to explore insights on:
+In this project, I analyzed a given restaurant dataset to explore insights on:
 1. Identify the most common combinations of cuisines in the dataset and
 2. Determine if certain cuisines combinations tend to have higher ratings.
 
