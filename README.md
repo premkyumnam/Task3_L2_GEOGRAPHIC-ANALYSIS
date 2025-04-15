@@ -16,7 +16,7 @@ After performing a thorough analysis, here are the findings:<br>
 <h2>DBSCAN Clustering of Restaurant Locations</h2>
 
 <p align="center">
-  <img src="plots/dbscan_clusters.png" alt="DBSCAN Clusters" width="600">
+  <img src="download.png" alt="DBSCAN Clusters" width="600">
 </p>
 
 
