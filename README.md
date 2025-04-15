@@ -15,7 +15,7 @@ In this video, I analyzed a given restaurant dataset to explore insights on:
 After performing a thorough analysis, here are the findings:<br>
 <h2>DBSCAN Clustering of Restaurant Locations</h2>
 <p align="left">
-  <img src="download.png" alt="DBSCAN Clusters" width="900"><br>
+  <img src="download.png" alt="DBSCAN Clusters" width="600"><br>
 This scatter plot shows restaurant clusters based on locations, with:
 - X-axis: Longitude
 - Y-axis: Latitude
