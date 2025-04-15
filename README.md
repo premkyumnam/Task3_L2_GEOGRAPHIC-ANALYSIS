@@ -14,9 +14,8 @@ In this video, I analyzed a given restaurant dataset to explore insights on:
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
 <h2>DBSCAN Clustering of Restaurant Locations</h2>
-
-<p align="center">
-  <img src="download.png" alt="DBSCAN Clusters" width="800">
+<p align="left">
+  <img src="download.png" alt="DBSCAN Clusters" width="900">
 </p>
 
 
