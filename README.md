@@ -23,10 +23,10 @@ Visual Representation
 DBSCAN Clustering of Restaurant Locations is shown in the figure:
 <p align="left">
   <img src="download.png" alt="DBSCAN Clusters" width="600"><br>
-- X-axis: Longitude
-- Y-axis: Latitude
-- Colored dots: DBSCAN cluster labels (0-18)
-- Gray dots (-1): Noise or outliers (restaurants not in any cluster)
+- X-axis: Longitude<br>
+- Y-axis: Latitude<br>
+- Colored dots: DBSCAN cluster labels (0-18)<br>
+- Gray dots (-1): Noise or outliers (restaurants not in any cluster)<br>
 
 This plot provides valuable insights into the geographic distribution and clustering of restaurants in the area.
 
