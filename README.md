@@ -8,20 +8,27 @@
 <h2>🔹Project Overview:</h2>
 
 In this project, I analyzed a given restaurant dataset to explore insights on:
-1. Identify the most common combinations of cuisines in the dataset and
-2. Determine if certain cuisines combinations tend to have higher ratings.
+1. Plot the locations of restaurants on a map using longitude and latitude coordinates.
+2. Identify any pattrns or clusters of restaurants in specific areas.
 
 <h2>🔹 Key Insights: </h2>
 After performing a thorough analysis, here are the findings:<br>
 <h2>DBSCAN Clustering of Restaurant Locations</h2>
+
+1. Dense restaurant clusters: Restaurants in close proximity (e.g., city centers, food streets) are grouped together with the same cluster label, appearing in the same color.
+2. Isolated restaurants: Restaurants far from others are marked as noise (-1 cluster label), appearing differently or as isolated dots.
+3. Multiple hotspots: Separate clusters can represent distinct restaurant hubs in areas like markets, office districts, schools, or downtown areas.
+
+Visual Representation
+DBSCAN Clustering of Restaurant Locations is shown in the figure:
 <p align="left">
   <img src="download.png" alt="DBSCAN Clusters" width="600"><br>
-This scatter plot shows restaurant clusters based on locations with:<br>
-- X-axis: Longitude<br>
-- Y-axis: Latitude<br>
-- Colored dots: DBSCAN cluster labels (0-18)<br>
-- Gray dots (-1): Noise or outliers (restaurants not in any cluster)<br>
-Each cluster groups restaurants that are geographically close."
+- X-axis: Longitude
+- Y-axis: Latitude
+- Colored dots: DBSCAN cluster labels (0-18)
+- Gray dots (-1): Noise or outliers (restaurants not in any cluster)
+
+This plot provides valuable insights into the geographic distribution and clustering of restaurants in the area.
 
 </p>
 
@@ -39,6 +46,11 @@ To achieve this Task3 of level 2, I used the following tools and technologies:<b
     - *DBSCAN*: Density-based clustering
     - *StandardScaler*: Feature scaling (standardization).
 7. Jupyter Notebook (Primary IDE) - used for writing and executing code.
+
+Why DBSCAN instead of K-Means?
+1. Density-based clustering: DBSCAN groups data points based on density, not just distance.
+2. Arbitrary cluster shapes: DBSCAN can identify clusters of varying shapes, whereas K-Means prefers circular shapes.
+3. Noise detection: DBSCAN automatically identifies outliers (noise) that don't belong to any cluster.
 
 These tools enabled me to effectively extract insights and meaning from the data.<br><br>
 🎉 I'm grateful for the opportunity to work on this project and sharpen my data analysis skills. <br>Thank you to Cognifyz Technologies for this amazing learning experience! I'm excited to continue growing and taking on new challenges.<br><br>
